@@ -1,6 +1,6 @@
 # YDAR
 YDAR is a cinema booking system 
-Using PHP in OOP style and MYSQL (Still working on dashboard).
+Using PHP in OOP style and MYSQL (Still working on dashboard and cinema admin).
 
 ## Features
 
@@ -41,7 +41,7 @@ Using PHP in OOP style and MYSQL (Still working on dashboard).
 ### Profile (Show Tickets)
 ![profile](screenshots/profile.png)
 
-### Profile (Movies Depend User Categories)
+### Profile (Movies Depend on User Categories)
 ![match](screenshots/match.png) 
 
 
