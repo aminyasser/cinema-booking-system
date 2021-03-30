@@ -1,17 +1,17 @@
 # YDAR
-YDAR is a cinema booking system.
-Using PHP in OOP style and MYSQL.
+YDAR is a cinema booking system 
+Using PHP in OOP style and MYSQL (Still working on dashboard).
 
 ## Features
 
-1 - Sign in / Sign UP
-2 - Add Categories to your account or Remove it.
-3 - Choose The Cinema.
-4 - Select witch movie to watch from Cinema page.
-5 - Select the date and time and select seats.
-6 - Show Ticktes in User Profile.
-7 - Cancel The Ticket.
-8 - Show Movies Depend on User Categories in Profile.
+- Sign in / Sign UP
+- Add Categories to your account or Remove it.
+- Choose The Cinema.
+- Select witch movie to watch from Cinema page.
+- Select the date and time and select seats.
+- Show Ticktes in User Profile.
+- Cancel The Ticket.
+- Show Movies Depend on User Categories in Profile.
 
 ## Running locally
  
